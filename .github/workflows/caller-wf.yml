@@ -16,7 +16,7 @@ permissions:
 
 jobs:
   call-workflow-passing-data:
-    uses: SathishkumarMadhiyazhagan/github-action-demo/.github/workflows/automate-readme.yml@master
+    uses: SathishkumarMadhiyazhagan/github-action-demo/.github/workflows/automate-readme.yml@v1
 
   terraform:
     name: 'Terraform'
